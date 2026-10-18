@@ -110,6 +110,6 @@ An AI-powered startup discovery platform that helps users identify promising sta
 
 ## 👨‍💻 Author
 
-**Vaibhav Sharma**
+**Vaibhav Sisodia**
 
 GitHub: https://github.com/MLwithvaibhav
