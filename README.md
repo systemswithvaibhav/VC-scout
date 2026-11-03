@@ -112,4 +112,4 @@ An AI-powered startup discovery platform that helps users identify promising sta
 
 **Vaibhav Sisodia**
 
-GitHub: https://github.com/MLwithvaibhav
+GitHub: https://github.com/systemswithvaibhav
